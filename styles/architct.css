@@ -200,6 +200,18 @@ main {
 .sponsors-img-container img {
     width: 165px;
 }
+/* footer style */
+.footer{
+    border-radius: 8px;
+background: #FFF4E7;
+margin: 240px;
+margin-bottom: 216px;
+}
+.text-light{
+    text-align: center;
+    padding: 40px ;
+    color: gray;
+}
 
 /* responsive media queries */
 /* mobile devices */
